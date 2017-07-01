@@ -1,0 +1,11 @@
+1. Draw rectangle on image:
+cv2.rectangle()
+cv2.rectangle(image_to_draw_on, (x1, y1), (x2, y2), color, thick)
+(x1, y1) and (x2, y2) are the x and y coordinates of any two opposing corners of the bounding box you want to draw. 
+
+
+
+¬
+
+
+
